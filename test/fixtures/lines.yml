@@ -1,0 +1,29 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  rang: MyString
+  dossard: MyText
+  fullname: MyString
+  temps: MyString
+  cat: MyString
+  rangcat: MyString
+  ecart: MyString
+  ecartcat: MyString
+  club: MyString
+  vitesse: MyString
+  tempsaukm: MyString
+  page: MyString
+
+two:
+  rang: MyString
+  dossard: MyText
+  fullname: MyString
+  temps: MyString
+  cat: MyString
+  rangcat: MyString
+  ecart: MyString
+  ecartcat: MyString
+  club: MyString
+  vitesse: MyString
+  tempsaukm: MyString
+  page: MyString
