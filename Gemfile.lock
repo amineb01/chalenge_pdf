@@ -113,7 +113,7 @@ GEM
     minitest (5.11.3)
     native-package-installer (1.0.7)
     nio4r (2.3.1)
-    nokogiri (1.10.3)
+    nokogiri (1.10.8)
       mini_portile2 (~> 2.4.0)
     pdf-reader (1.1.1)
       Ascii85 (~> 1.0.0)
